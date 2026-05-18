@@ -1,6 +1,6 @@
 ---
 name: reddit-daily-karma
-description: Runs a daily Reddit participation workflow: post one nature/animal item and leave authentic comments across relevant communities. Use when the user asks to run a daily Reddit karma routine, post to r/NatureBeingFunny, comment in multiple subreddits, or reuse the Reddit automation.
+description: "Runs a daily Reddit participation workflow: post one nature/animal item and leave authentic comments across relevant communities. Use when the user asks to run a daily Reddit karma routine, post to r/NatureBeingFunny, comment in multiple subreddits, or reuse the Reddit automation."
 ---
 
 # Reddit Daily Karma
